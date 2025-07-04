@@ -26,6 +26,14 @@ A powerful semantic image search engine that uses OpenAI's CLIP model and FAISS 
 - CUDA-compatible GPU (optional but recommended)
 - Sufficient disk space for your image dataset and index files
 
+## Demo
+![500](https://github.com/user-attachments/assets/cbc6e02a-5651-439e-8b01-3711d7a29c2c)
+
+![497](https://github.com/user-attachments/assets/b028e51d-2028-47da-9f09-1866cc2c67bf)
+
+![498](https://github.com/user-attachments/assets/48dd1511-bf13-47fc-8e9a-71d624c440c4)
+
+
 ## 🔧 Installation
 
 1. **Clone the repository**
